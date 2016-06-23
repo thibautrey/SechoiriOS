@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Modules/RCTUIManager.m \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Layout/Layout.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTRootShadowView.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTView.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/UIView+React.h

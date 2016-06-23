@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTView.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/thibautrey/Desktop/Sechoir/node_modules/react-native/React/Views/UIView+React.h
